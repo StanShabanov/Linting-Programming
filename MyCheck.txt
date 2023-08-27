@@ -1,0 +1,7 @@
+NotUsingVariables
+
+Description: If a variable is declared but never utilized in the code, 
+NotUsingVariables should produce an error. By finding and removing unneeded 
+variables, this check can reduce memory usage and improve the readability of the code.
+
+Error code: 3
